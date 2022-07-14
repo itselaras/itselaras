@@ -1,6 +1,7 @@
 # You're in great company 
+![unduhan](https://user-images.githubusercontent.com/90593133/178882420-6188d1c3-dab1-4412-ae9c-d20b15100a50.jpg)
 
-![img](https://user-images.githubusercontent.com/53375007/127773721-eeecd5be-ea75-42cd-9b08-3e755cb5fc9d.png)
+
 
 PT Selaras Mitra Integra atau biasa disebut SMI merupakan perusahaan human resources management system atau human resources solution.
 
